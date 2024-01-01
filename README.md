@@ -24,7 +24,7 @@ Tujuannya adalah untuk membuat model pembelajaran mesin yang dapat belajar dari 
 
 Algoritma K-Means adalah salah satu algoritma dalam analisis clustering yang digunakan untuk mengelompokkan data ke dalam kategori yang berbeda secara otomatis.
 
-Akurasi: Akurasi adalah ukuran seberapa sering model memprediksi dengan benar.
+Akurasi adalah ukuran seberapa sering model memprediksi dengan benar.
 Sensitivitas: Sensitivitas adalah seberapa sering model memprediksi dengan benar jenis Species Iris.
 
 ### Data understanding
@@ -328,7 +328,7 @@ iris.to_excel("iris.xlsx")
 
 ### Deployment
 [Iris prediction](https://irisspecies-m3qkrun8dxfn8mcfqs9hym.streamlit.app/)
- ![Alt text](16.png)<br>
- ![Alt text](17.png)<br>
- ![Alt text](18.png)<br>
- ![Alt text](19.png)<br>
+![Alt text](16.png)
+![Alt text](17.png)
+![Alt text](18.png)
+![Alt text](19.png)
