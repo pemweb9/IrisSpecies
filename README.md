@@ -327,7 +327,7 @@ iris.to_excel("iris.xlsx")
 ```
 
 ### Deployment
-[Iris prediction](https://irisspecies-m3qkrun8dxfn8mcfqs9hym.streamlit.app/)
+[Iris prediction](https://irisspecies-m3qkrun8dxfn8mcfqs9hym.streamlit.app/)<br>
 ![Alt text](16.png)
 ![Alt text](17.png)
 ![Alt text](18.png)
