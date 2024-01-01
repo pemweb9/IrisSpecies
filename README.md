@@ -328,7 +328,7 @@ iris.to_excel("iris.xlsx")
 
 ### Deployment
 [Iris prediction](https://irisspecies-m3qkrun8dxfn8mcfqs9hym.streamlit.app/)
- ![Alt text](img/16.png)<br>
- ![Alt text](img/17.png)<br>
- ![Alt text](img/18.png)<br>
- ![Alt text](img/19.png)<br>
+ ![Alt text](16.png)<br>
+ ![Alt text](17.png)<br>
+ ![Alt text](18.png)<br>
+ ![Alt text](19.png)<br>
