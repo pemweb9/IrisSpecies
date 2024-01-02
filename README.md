@@ -3,7 +3,7 @@
 ### Nim : 211351154
 ### Kelas : Pagi A
 
-# Domain proyek ( Iris species )
+## Domain proyek ( Iris species )
 
 ![Alt text](iris.png)
 Kumpulan data bunga Iris atau kumpulan data Iris Fisher adalah kumpulan data multivariat yang digunakan dan dipopulerkan oleh ahli statistik dan biologi Inggris Ronald Fisher dalam makalahnya tahun 1936 Penggunaan beberapa pengukuran dalam masalah taksonomi sebagai contoh analisis diskriminan linier. Kadang-kadang disebut kumpulan data Iris Anderson karena Edgar Anderson mengumpulkan data untuk mengukur variasi morfologi bunga Iris dari tiga spesies terkait. Dua dari tiga spesies dikumpulkan di Semenanjung Gaspé "semuanya dari padang rumput yang sama, dan dipetik pada hari yang sama serta diukur pada waktu yang sama oleh orang yang sama dengan peralatan yang sama"
