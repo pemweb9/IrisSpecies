@@ -33,10 +33,10 @@ Untuk membuat aplikasi Iris species,saya menggunakan dataset "Iris species", dat
 
 | No | Nama Variable    |           Keterangan               |
 |----|------------------|------------------------------------|
-| 1  | Sepal length     |           Panjang sepal            |
-| 2  | Sepal width      |           Lebar sepal              |
-| 3  | Petal length     |           Panjang kelopak          |
-| 4  | Petal width      |           Lebar kelopak            |
+| 1  | SepalLengthCm    |           Panjang sepal            |
+| 2  | SepalWidthCm     |           Lebar sepal              |
+| 3  | PetalLengthCm    |           Panjang kelopak          |
+| 4  | PetalWidthCm     |           Lebar kelopak            |
 | 5  | Species          |           Spesies Iris             |
 
 ## Exploratory Data Analyst (EDA)
