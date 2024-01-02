@@ -27,7 +27,7 @@ Tujuannya adalah untuk membuat model pembelajaran mesin yang dapat belajar dari 
 - Akurasi adalah ukuran seberapa sering model memprediksi dengan benar.
 
 ### Data understanding
-Untuk membuat aplikasi Iris species,saya menggunakan dataset "Iris species", dataset ini berisi tentang jenis bunga Iris.
+Untuk membuat aplikasi Iris species,saya menggunakan dataset "Iris species", dataset ini berisi tentang jenis bunga Iris.<br>
 [Iris Species](https://www.kaggle.com/datasets/uciml/iris)  
 
 ### Variabel-variabel yang terdapat pada Dataset adalah sebagai berikut:
