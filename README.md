@@ -20,7 +20,7 @@ Beberapa iris yang sebelumnya telah diidentifikasi oleh ahli botani sebagai spes
 Tujuannya adalah untuk membuat model pembelajaran mesin yang dapat belajar dari pengukuran iris yang spesiesnya sudah diketahui, sehingga kita dapat memprediksi spesies iris baru yang ditemukan.
 
 ### Solution statements
-- ​Menggunakan Algoritma K-Means untuk memprediksi jenis Iris berdasarkan data species, seperti Iris Setosa, Iris Virginica, dan Iris Versicolor.
+- ​Menggunakan Algoritma K-Means untuk memprediksi jenis Iris berdasarkan data species seperti Iris Setosa, Iris Virginica, dan Iris Versicolor.
 
 - Sistem berjalan dengan menggunakan metode K Means yang dinilai cocok untuk melakukan segmentasi atau clustering.
 
